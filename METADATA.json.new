@@ -1,0 +1,24 @@
+{
+  "name": "Josefin Sans Std Light",
+  "designer": "hidden",
+  "license": "OFL",
+  "visibility": "Internal",
+  "category": "Sans Serif",
+  "size": 21530,
+  "fonts": [
+    {
+      "name": "Josefin Sans Std",
+      "style": "normal",
+      "weight": 300,
+      "filename": "JosefinSansStd-Regular.ttf",
+      "postScriptName": "JosefinSansStd-Light",
+      "fullName": "Josefin Sans Std Light",
+      "copyright": "Copyright (c) 2010 by Santiago Orozco. All rights reserved."
+    }
+  ],
+  "subsets": [
+    "latin",
+    "menu"
+  ],
+  "dateAdded": "2010-05-18"
+}
